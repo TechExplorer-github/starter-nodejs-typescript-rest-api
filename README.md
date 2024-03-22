@@ -15,8 +15,6 @@ npm run dev
 
 ## 動作確認
 
-※Windows の場合は header 情報内の`"`の前に`\`を入れてエスケープさせる
-
 Get all items
 
 ```sh
